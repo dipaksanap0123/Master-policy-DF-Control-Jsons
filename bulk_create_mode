@@ -2,7 +2,7 @@
     "dry_run": false,
     "database_id": 3575,
     "action_type": "create",
-    "master_policy_effective_date": "02/01/2026",
+    "master_policy_effective_date": "12/01/2025",
     "create_str_from": "data_fix",
     "allow_renewals": true,
     "max_renewal_iterations": 36,
@@ -10,12 +10,7 @@
     "allow_property_charge_posting": true,
     "create_rows": [
         {
-            "lease_id": 15671954,
-            "cid": 14156,
-            "property_id": 745865
-        },
-        {
-            "lease_id": 15671955,
+            "lease_id": 15673689,
             "cid": 14156,
             "property_id": 745865
         }
