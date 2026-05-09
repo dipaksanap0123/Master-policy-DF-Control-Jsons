@@ -1,0 +1,50 @@
+{
+    "dry_run": true,
+    "database_id": 5433,
+    "action_type": "update",
+    "dry_run_include_current_db_snapshot": true,
+    "allow_precheck_hook_create": false,
+    "allow_precheck_hook_update": false,
+    "allow_precheck_hook_cancel": false,
+    "allow_custom_effective_date_logic": false,
+    "master_policy_effective_date": "12/01/2025",
+    "create_str_from": "data_fix",
+    "allow_renewals": true,
+    "max_renewal_iterations": 36,
+    "allow_content_only_master_policy_cancel": false,
+    "allow_resident_charge_posting": false,
+    "allow_copy_prior_fpp_resident_charges": true,
+    "allow_property_charge_posting": true,
+    "allow_copy_prior_mpc_property_charges": false,
+    "skip_posting_resident_charges_for_particular_iteration": true,
+    "skip_posting_property_charges_for_particular_iteration": true,
+    "skip_posting_resident_charges_for_iteration_mm_yy": ["12/25"],
+    "skip_posting_property_charges_for_iteration_mm_yy": ["12/25"],
+    "replace_ar_if_fpp_already_linked": false,
+    "allow_flat_cancel": true,
+    "allow_reverse_resident_transactions": false,
+    "allow_reverse_property_transactions": true,
+    "suppress_cancel_email": false,
+    "datafix_send_email_forced_placed_enrollment": false,
+    "datafix_send_email_forced_placed_renewal": false,
+    "datafix_send_email_forced_placed_cancel": false,
+    "allow_extend_renewal_schedule_horizon_to_next_calendar_month": false,
+    "renewal_schedule_extend_horizon_when_run_day_of_month_gte": 27,
+    "allow_reuse_policy_number": false,
+    "allow_change_old_policy_number": false,
+    "policy_number_suffix": "",
+    "clear_ar_transaction_id_on_old_fpp_after_copying_resident_charges_to_new_policy": true,
+    "create_rows": [
+        {
+            "cid": 18729,
+            "lead_source_type_id": 1
+        }
+    ],
+    "update_rows": [
+        {
+            "master_policy_id": 1774961,
+            "property_id": 1200360,
+            "lease_id": 15315735
+        }
+    ]
+}
