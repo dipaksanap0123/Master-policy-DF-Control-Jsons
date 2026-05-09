@@ -1,12 +1,12 @@
 {
-    "dry_run": false,
+    "dry_run": true,
     "database_id": 3575,
     "action_type": "update",
     "dry_run_include_current_db_snapshot": true,
     "allow_precheck_hook_create": false,
     "allow_precheck_hook_update": false,
     "allow_precheck_hook_cancel": false,
-    "allow_custom_effective_date_logic": false,
+    "allow_custom_effective_date_logic": true,
     "master_policy_effective_date": "12/01/2025",
     "create_str_from": "data_fix",
     "allow_renewals": true,
@@ -33,14 +33,19 @@
     "create_rows": [
       {
         "cid": 14156,
-        "property_id": 745865,
         "lead_source_type_id": 1
       }
     ],
     "update_rows": [
       {
-        "master_policy_id": 847282,
-        "lease_id": 15673691
+        "property_id": 745865,
+        "master_policy_id": 847444,
+        "lease_id": 15674000
+      },
+     {
+        "property_id": 745865,
+        "master_policy_id": 847446,
+        "lease_id": 15674001
       }
     ]
   }
