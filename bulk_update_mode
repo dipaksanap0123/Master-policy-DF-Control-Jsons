@@ -1,5 +1,5 @@
 {
-    "dry_run": true,
+    "dry_run": false,
     "database_id": 3575,
     "action_type": "update",
     "dry_run_include_current_db_snapshot": true,
