@@ -6,7 +6,7 @@
     "allow_precheck_hook_create": false,
     "allow_precheck_hook_update": false,
     "allow_precheck_hook_cancel": false,
-    "allow_custom_effective_date_logic": true,
+    "allow_custom_effective_date_logic": false,
     "master_policy_effective_date": "12/01/2025",
     "create_str_from": "data_fix",
     "allow_renewals": true,
