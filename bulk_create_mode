@@ -12,7 +12,19 @@
         {
             "cid": 14156,
             "property_id": 745865,
-            "lease_id": 15674169
+            "lease_id": 15674806
+        },
+        {
+            "cid": 14156,
+            "property_id": 745865,
+            "lease_id": 15674807,
+            "master_policy_effective_date": "02/01/2026"
+        },
+        {
+            "cid": 14156,
+            "property_id": 745865,
+            "lease_id": 15674808,
+            "master_policy_effective_date": "01/01/2026"
         }
     ]
 }
