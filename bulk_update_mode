@@ -34,6 +34,8 @@
     "allow_reuse_policy_number": false,
     "allow_change_old_policy_number": false,
     "policy_number_suffix": "",
+    "allow_handle_already_cancelled_policies_in_update_mode_to_recreate": true,
+    "allow_handle_already_flat_cancelled_policies_in_update_mode_to_recreate": false,
     "clear_ar_transaction_id_on_old_fpp_after_copying_resident_charges_to_new_policy": true,
     "create_rows": [
       {
