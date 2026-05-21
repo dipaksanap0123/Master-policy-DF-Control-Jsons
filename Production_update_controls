@@ -36,6 +36,9 @@
     "allow_handle_already_cancelled_policies_in_update_mode_to_recreate": true,
     "allow_handle_already_flat_cancelled_policies_in_update_mode_to_recreate": false,
     "clear_ar_transaction_id_on_old_fpp_after_copying_resident_charges_to_new_policy": true,
+    "apply_mpc_is_disabled_filter": false,
+    "require_mpc_carrier_export_batch_id": false,
+    "require_mpc_nonzero_export_premium": false,
     "create_rows": [
         {
             "cid": 18729,
