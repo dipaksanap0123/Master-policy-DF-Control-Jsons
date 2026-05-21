@@ -49,8 +49,13 @@
     "update_rows": [
       {
         "property_id": 745865,
-        "master_policy_id": 848354,
-        "lease_id": 15675885
+        "master_policy_id": 848530,
+        "lease_id": 15676183
+      },
+      {
+        "property_id": 745865,
+        "master_policy_id": 848532,
+        "lease_id": 15676184
       }
     ]
   }
