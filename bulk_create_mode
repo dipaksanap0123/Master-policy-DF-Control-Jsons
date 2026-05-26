@@ -5,29 +5,14 @@
     "master_policy_effective_date": "02/01/2026",
     "create_str_from": "data_fix",
     "allow_renewals": true,
-    "max_renewal_iterations": 36,
+    "max_renewal_iterations": 2,
     "allow_resident_charge_posting": true,
     "allow_property_charge_posting": true,
     "create_rows": [
         {
             "cid": 14156,
             "property_id": 1356058,
-            "lease_id": 15676727
-        },
-        {
-            "cid": 14156,
-            "property_id": 1356058,
-            "lease_id": 15676728
-        },
-        {
-            "cid": 14156,
-            "property_id": 1356058,
-            "lease_id": 15676729
-        },
-        {
-            "cid": 14156,
-            "property_id": 1356058,
-            "lease_id": 15676730
+            "lease_id": 15677238
         }
     ]
 }
