@@ -1,0 +1,30 @@
+{
+  "dry_run": true,
+  "database_id": 3575,
+  "action_type": "bridge_policy",
+  "bridge_start_date": "11/01/2025",
+  "minimum_gap_days_before_next_policy": 10,
+  "allow_renewals": true,
+  "max_renewal_iterations": 24,
+  "allow_resident_charge_posting": true,
+  "allow_property_charge_posting": true,
+  "create_str_from": "data_fix",
+  "bridge_policy_rows": [
+    {
+      "cid": 14156,
+      "property_id": 745865,
+      "lease_id": 15671885
+    },
+    {
+      "cid": 14156,
+      "property_id": 745865,
+      "lease_id": 15671886
+    },
+    {
+      "cid": 14156,
+      "property_id": 745865,
+      "lease_id": 15672230,
+      "bridge_start_date": "10/15/2025"
+    }
+  ]
+}
