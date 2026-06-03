@@ -1,5 +1,5 @@
 {
-  "dry_run": true,
+  "dry_run": false,
   "database_id": 3575,
   "action_type": "bridge_policy",
   "bridge_start_date": "10/01/2025",
