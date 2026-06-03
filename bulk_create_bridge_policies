@@ -2,7 +2,7 @@
   "dry_run": false,
   "database_id": 3575,
   "action_type": "bridge_policy",
-  "bridge_start_date": "10/01/2025",
+  "bridge_start_date": "11/01/2025",
   "minimum_gap_days_before_next_policy": 10,
   "allow_renewals": true,
   "max_renewal_iterations": 24,
@@ -13,7 +13,7 @@
     {
       "cid": 14156,
       "property_id": 1356058,
-      "lease_id": 15677915
+      "lease_id": 15678149
     }
   ]
 }
