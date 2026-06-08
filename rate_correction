@@ -1,0 +1,8 @@
+{
+  "dry_run": true,
+  "database_id": 3575,
+  "action_type": "carrier_premium_adjustment",
+  "adjustment_phase": "fix_products",
+  "master_policy_product_ids": [8067],
+  "allow_fix_master_policy_products": true
+}
