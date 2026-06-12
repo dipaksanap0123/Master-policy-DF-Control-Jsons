@@ -1,0 +1,18 @@
+{
+    "dry_run": false,
+    "database_id": 3575,
+    "action_type": "create",
+    "master_policy_effective_date": "05/01/2026",
+    "create_str_from": "data_fix",
+    "allow_renewals": true,
+    "max_renewal_iterations": 3,
+    "allow_resident_charge_posting": true,
+    "allow_property_charge_posting": true,
+    "create_rows": [
+        {
+            "cid": 14156,
+            "property_id": 15680400,
+            "lease_id": 15680367
+        }
+    ]
+}
